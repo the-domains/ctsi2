@@ -1,0 +1,14 @@
+layout_spectrum: 0.6688257942441851
+typography_spectrum: 0.1579388256650418
+color:
+  brandStrength: 0.6342706927098334
+  lightness: 0.7888372845482081
+  saturation: 0.8446233388967812
+  rhythmicContrast: 0.7111351017374545
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: CTSI2
