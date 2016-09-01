@@ -1,4 +1,3 @@
-layout_spectrum: 0.6688257942441851
 typography_spectrum: 0.1579388256650418
 color:
   brandStrength: 0.6342706927098334
@@ -11,4 +10,6 @@ color:
     - '#ABC8E2'
     - '#375D81'
     - '#183152'
+layout_spectrum: 0.6688257942441851
 name: CTSI2
+title: Welcome to the next level
